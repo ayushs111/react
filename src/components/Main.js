@@ -8,7 +8,7 @@ import 'react-datepicker/dist/react-datepicker.css'
 import '../App.css'
 import moment from 'moment'
 //ayush sojitra
-//ayush
+
 export default function Main() {
   const [searchTerm, setSearchTerm] = useState('')
   const [searchDate, setSearchDate] = useState('')
