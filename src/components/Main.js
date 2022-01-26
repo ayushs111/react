@@ -79,7 +79,6 @@ export default function Main() {
     }
     console.log(searchDate)
   }
-// all the best
   return (
     <div>
       <TextField
